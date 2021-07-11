@@ -20,7 +20,6 @@
 - Project: "Predição de tendência de ações na bolsa de valores através de código genético"
 
  <br>
- <br>
 
 <details>
   <summary> <b> :point_right: Metrics to know about my GitHub! </b> <i>(click to expand!)</i> </summary>
