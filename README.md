@@ -2,11 +2,11 @@
 
 
 ### :books: I'm Bachelor’s degree in
-- Librarianship and Information Science
+- Librarianship and Information Science at UFSCar, São Carlos, SP, Brazil
  
 
 ### :computer: I'm currently an undergraduate student in
-- Technologist degree in System Analysis and Development
+- Technologist degree in System Analysis and Development at IFSP, São Carlos, SP, Brazil
  
 
  
