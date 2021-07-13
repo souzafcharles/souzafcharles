@@ -3,8 +3,8 @@
 
 ### :books: I have Bachelor’s degree in
 - Librarianship and Information Science at UFSCar, São Carlos, SP, Brazil (2010-2016)
-  - Emphasis: Culture and Discourse, Science and Society (2014-2016)
   - Emphasis: Technological and Entrepreneurial Information (2012-2013)
+  - Emphasis: Culture and Discourse, Science and Society (2014-2016)
  
 
 ### :computer: I'm currently an undergraduate student in
