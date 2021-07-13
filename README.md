@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-### :books: I'm Bachelor’s degree in
+### :books: I have Bachelor’s degree in
 - Librarianship and Information Science at UFSCar, São Carlos, SP, Brazil
  
 
