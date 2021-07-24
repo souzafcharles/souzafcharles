@@ -19,7 +19,7 @@
  
 ### :mag_right: I'm Scientific Initiation Volunteer from 
 - GTA-PB, IFSP, São Carlos, SP, Brazil
-- Project: "Predição de tendência de ações na bolsa de valores através de código genético"
+- Project: "Predicting Stock Market Trends Through Genetic Algorithm"
 
  <br>
 
