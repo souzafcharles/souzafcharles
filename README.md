@@ -9,12 +9,6 @@
 
 ### :computer: I'm currently an undergraduate student in
 - Technologist degree in System Analysis and Development at IFSP, São Carlos, SP, Brazil (2019-  )
- 
-
- 
-### :briefcase: I’m currently working on 
-- Brazilian Polymers Association - ABPol, São Carlos, SP, Brazil
-
 
  
 ### :mag_right: I'm Scientific Initiation Volunteer from 
