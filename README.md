@@ -13,7 +13,7 @@
  
 ### :mag_right: I'm Scientific Initiation Volunteer from 
 - GTA-PB, IFSP, São Carlos, SP, Brazil
-- Project: "Predicting Stock Market Trends Through Genetic Algorithm"
+- Project: "Stock Market Trend Prediction Through Recurring Neural Networks"
 
  <br>
 
