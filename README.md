@@ -16,6 +16,9 @@
   - Project 2021: "Predicting Stock Market Trends Through Genetic Algorithm"
   - Project 2022: "Predicting Stock Market Trends Through Recurring Neural Networks"
 
+### :briefcase: I’m currently working at
+ - Amdocs, Brazil. [Make it Amazing!](https://www.youtube.com/watch?v=k2MguuVtJ94)
+
  <br>
 
 
