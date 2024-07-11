@@ -19,7 +19,7 @@
 
 ## :briefcase: Career
 
-- I am actively seeking new opportunities in the field of Software Developer.
+- I am currently seeking new opportunities within the Software Development field.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/charlesfernandesdesouza">
