@@ -3,19 +3,15 @@
 ## :books: Education
 
 ### :mortar_board: Recent Graduation
-- Technologist degree in System Analysis and Development at IFSP, São Carlos, SP, Brazil (2019-2023) 
+- Technologist degree in System Analysis and Development at IFSP, São Carlos, SP, Brazil (2019-2023)
+  - Participated in a Scientific Initiation Program, conducting research on stock market trend prediction:
+    - 2022: "Predicting Stock Market Trends Through Recurrent Neural Networks";
+    - 2021: "Predicting Stock Market Trends Through Genetic Algorithm".
 
 ### :mortar_board: Previous Education
 - Bachelor’s degree in Librarianship and Information Science at UFSCar, São Carlos, SP, Brazil (2010-2016)
   - Emphasis: Technological and Entrepreneurial Information (2012-2013)
   - Emphasis: Culture and Discourse, Science, and Society (2014-2016)
-
-## :mag_right: Research Experience
-
-### :microscope: Scientific Initiation Volunteer
-- GTA-PB, IFSP, São Carlos, SP, Brazil
-  - Project 2021: "Predicting Stock Market Trends Through Genetic Algorithm"
-  - Project 2022: "Predicting Stock Market Trends Through Recurring Neural Networks"
 
 ## :briefcase: Career
 
