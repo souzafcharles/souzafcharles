@@ -15,7 +15,7 @@
 
 ## :briefcase: Career
 
-- I am currently seeking new opportunities within the Software Development field.
+- I am presently employed as a Junior Development Analyst at CSD BR.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/charlesfernandesdesouza">
