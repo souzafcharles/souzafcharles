@@ -1,7 +1,7 @@
 # 👋 Hello, World! 
 
 <p align="justify">
-I'm a Software Developer from São Carlos, Brazil, with over 2 years of experience in backend development. I specialize in Java, Spring Boot, and RESTful APIs, and currently work with distributed systems and functional programming using Clojure, Kafka, and Cassandra. I thrive in Agile environments, love solving complex problems, and enjoy building scalable, maintainable software.
+I'm a Software Developer from São Carlos, Brazil, with + 2 years of experience in backend development. I specialize in Java, Spring Boot, and RESTful APIs, and currently work with distributed systems and functional programming using Clojure, Kafka, and Cassandra. I thrive in Agile environments, solving complex problems, and building scalable, maintainable software.
 </p>
 
 ---
