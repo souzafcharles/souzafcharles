@@ -55,22 +55,6 @@ Worked on Telecom CRM systems for major Latin American clients, ensuring reliabi
 
 ---
 
-## :chart_with_upwards_trend: GitHub Metrics
-
-<details>
-  <summary> <b>📊 GitHub Stats</b> <i>(click to expand)</i> </summary>
-  <br>
-  <a href="https://github.com/souzafcharles">
-    <img src="https://github-readme-stats.vercel.app/api?username=souzafcharles&show_icons=true&title_color=0076e3&icon_color=0076e3&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats">
-  </a>
-  <br><br>
-  <a href="https://github.com/souzafcharles">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzafcharles&layout=compact&theme=dark" alt="Top Languages">
-  </a>
-</details>
-
----
-
 ## :link: Connect with Me
 
 <div align="center">
