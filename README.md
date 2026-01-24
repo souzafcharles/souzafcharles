@@ -1,9 +1,9 @@
 # 👋 Hello, World!
 
 <p align="justify">
-I'm a Software Developer based in São Carlos, Brazil, with professional experience since 2022, working across backend, full-stack, and distributed systems development. I specialize in Java (7–21), Spring Boot, Spring Cloud, and RESTful APIs, with hands-on experience in microservices, event-driven architectures, and functional programming.  
+I'm a Software Developer based in São Carlos, SP, Brazil, with professional experience since 2022, working across backend and distributed systems development. I specialize in Java (7–21), Spring Boot, Spring Cloud, and RESTful APIs, with hands-on experience in microservices, event-driven architectures, and functional programming.  
 
-Currently, I work on GIS-driven platforms for agricultural and environmental monitoring across Latin America, building scalable backend services and frontend applications using Java, Node.js, Vue.js, and PostgreSQL/PostGIS. I enjoy solving complex problems, collaborating in Agile teams, and delivering secure, reliable, and maintainable software.
+Currently, I work on GIS-driven platforms for agricultural and environmental monitoring across Latin America, contributing to scalable backend services and frontend applications using Java, Spring Boot, Vue.js, and PostgreSQL/PostGIS. I have experience with Docker, Git/GitLab, JIRA, Liquibase, AWS, and Postman, applying microservices with Hexagonal Architecture and Domain-Driven Design. I also work with unit testing (JUnit 5, Mockito), code quality tools (JaCoCo, ArchUnit), and client projects in Paraguay and Argentina.
 </p>
 
 ---
