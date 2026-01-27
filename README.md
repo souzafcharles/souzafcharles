@@ -30,17 +30,19 @@ Currently, I work on GIS-driven platforms for agricultural and environmental mon
 
 ### 💼 Vega Monitoramento Agro – Full-Stack Software Developer (Dec 2025 – Present)
 <p align="justify">
-Working on GIS-driven software solutions and APIs that support agricultural and environmental monitoring across Latin America.
+Worked on the development of GIS-based solutions and APIs supporting agricultural and environmental monitoring across Latin America.
 </p>
 
-- Developed and maintained **RESTful APIs** and backend services using **Java (Spring Boot)** and **Node.js**;
+- Developed **REST APIs** and backend **microservices** using **Java (Spring Boot)**;
+- Applied **Domain-Driven Design (DDD)** and **Hexagonal Architecture** in distributed systems;
 - Built frontend applications with **Vue.js**, focusing on performance and usability;
-- Designed functional and data models for geospatial workflows using **PostgreSQL/PostGIS**;
-- Supported high-volume data integration and security/performance assessments;
-- Executed functional, integration, and non-functional tests in collaboration with QA;
-- Actively participated in Agile ceremonies, code reviews, and backlog refinement.
+- Designed and managed geospatial data models using **PostgreSQL/PostGIS**;
+- Implemented unit and integration tests with **JUnit 5** and **Mockito**;
+- Utilized **Docker**, **AWS**, and code quality tools within Agile environments.
 
-**Tech Stack:** Java, Spring Boot, Spring Cloud, Node.js, Vue.js, REST APIs, PostgreSQL, PostGIS, DynamoDB, Elasticsearch, Docker, Git, Agile (Scrum).
+<p align="justify">
+<strong>Tech Stack:</strong> Java, Spring Boot, Vue.js, REST APIs, Microservices, DDD, Hexagonal Architecture, PostgreSQL, PostGIS, Docker, AWS, Git/GitLab, JUnit 5, Mockito, Agile (Scrum).
+</p>
 
 ---
 
@@ -78,14 +80,14 @@ Worked on large-scale Telecom CRM systems for enterprise clients across Latin Am
 
 ## :gear: Skills
 
-- **Backend & Languages:** Java, Spring Boot, Spring Cloud, Node.js, Python, Clojure  
-- **Frontend:** Vue.js, JavaScript (ES6+), ClojureScript, Angular, React, HTML5, CSS3  
-- **Architecture:** Microservices, Event-Driven Architecture, Distributed Systems, SOLID, Design Patterns  
-- **Databases:** PostgreSQL, PostGIS, Oracle, MongoDB, Apache Cassandra, DynamoDB  
-- **DevOps & Cloud:** Docker, Git, CI/CD, AWS (Lambda, EC2), Google Cloud Platform  
-- **Messaging & Integration:** Apache Kafka, Kafka Streams, RabbitMQ, REST, SOAP  
-- **Methodologies:** Agile (Scrum, Kanban), TDD, Code Reviews  
-
+- **Backend & Languages:** Java, Spring Boot, Spring Cloud, Node.js, Python, Clojure;  
+- **Frontend:** Vue.js, JavaScript (ES6+), ClojureScript, Angular, React, HTML5, CSS3;  
+- **Architecture:** Microservices, Event-Driven Architecture, Distributed Systems, Domain-Driven Design (DDD), Hexagonal Architecture, SOLID, Design Patterns;  
+- **Databases & Search:** PostgreSQL, PostGIS, Oracle, MongoDB, Apache Cassandra, DynamoDB, Elasticsearch;  
+- **DevOps & Cloud:** Docker, Git, GitLab, CI/CD, AWS (EC2, Lambda), Google Cloud Platform;  
+- **Messaging & Integration:** Apache Kafka, Kafka Streams, RabbitMQ, REST APIs, SOAP;  
+- **Testing & Code Quality:** JUnit 5, Mockito, JaCoCo, ArchUnit;  
+- **Methodologies & Tools:** Agile (Scrum, Kanban), TDD, Code Reviews, JIRA.
 ---
 
 ## :link: Connect with Me
